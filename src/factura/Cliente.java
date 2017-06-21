@@ -11,7 +11,7 @@ package factura;
  */
 public class Cliente {
     private String nombre;
-
+    private String Apellido;
     public String getNombre() {
         return nombre;
     }
